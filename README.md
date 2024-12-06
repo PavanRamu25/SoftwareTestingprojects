@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavan</h1>
+<h1 align="center">Hi 👋, I'm Pavan R</h1>
 <h3 align="center">A passionate Software test engineer from India Bangalore</h3>
 
 - 🔭 I’m currently working on **Automation testing project**
